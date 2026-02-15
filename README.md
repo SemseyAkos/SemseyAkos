@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SemseyAkos
-- 👀 I’m interested in intuitive graphical GUIs, C#, Delphi
-- 🌱 I’m currently learning C#, Delphi, Web apps, mobile apps
-- 💞️ I’m looking to collaborate soon...
+- 👋 Hi, I’m @SemseyAkos (1969)
+- 👀 I’m interested in intuitive graphical GUIs, C#, Delphi, Robotics, AI
+- 🌱 I’m currently learning C#, Delphi, Web apps, mobile apps, vibe coding
 - 📫 How to reach me ? Just post me here something.
 
 <!---
